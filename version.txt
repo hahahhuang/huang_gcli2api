@@ -1,4 +1,4 @@
-full_hash=689dc539e986a7f4cce1d9439218bc78abc52138
-short_hash=689dc53
-message=反重力缓存
-date=2026-05-21 20:50:15 +0800
+full_hash=f13088be831033dbb653313af438f1484343a7a3
+short_hash=f13088b
+message=添加3.5-flash模型
+date=2026-05-31 05:45:57 +0800
