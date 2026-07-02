@@ -1,4 +1,4 @@
-full_hash=f13088be831033dbb653313af438f1484343a7a3
-short_hash=f13088b
-message=添加3.5-flash模型
-date=2026-05-31 05:45:57 +0800
+full_hash=b866e0c6bc45bc0e480903e127543c007872e5c3
+short_hash=b866e0c
+message=更新gemini cli版本
+date=2026-07-03 04:51:00 +0800
